@@ -3,8 +3,8 @@
 $name = "John";
 $age = 24;
 $height=5.4;
-var_dump($name);
-var_dump($age);
+echo var_dump($name). "<br>";
+echo var_dump($age). "<br>";
 var_dump($height);
 
 
